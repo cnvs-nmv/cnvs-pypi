@@ -1,0 +1,12 @@
+# .gitignore template
+# IDE
+**/.vscode
+
+# Compiler
+**/__pycache__
+
+# Assets
+
+# Confidentials
+
+# Others
